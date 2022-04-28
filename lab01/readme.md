@@ -30,21 +30,21 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Calculadora</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Calculadora y Hola mundo</td></tr>
 <tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA DE PRESENTACION:</td><td>28-Abr-2022</td><td colspan="3">HORA DE PRESENTACION:</td><td>3:50</td>
 </tr>
 <tr><td colspan="4">Integrantes:
 <ul>
 <li>Kevin Pedro Yare Chulunquia</li>
 <li>Joel Erick Gutierrez Puma</li>
-<li>Joaquin Paredes</li>
+<li>Joaquín Gonzalo Paredes Mescco</li>
 </ul>
 </td>
-<td>NOTA:</td>
+    <td>NOTA:</td><td colspan="2"></td>
 </tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
@@ -64,9 +64,9 @@ Primer ejercicio de crear un repositorio individual donde se añadira un "HolaMu
 
 Repositorio de Kevin Pedro Yare Chulunquia: https://github.com/kevinPedroYare/primero
 
-Repositorio de Joel Erick Gutierrez Puma
+Repositorio de Joel Erick Gutierrez Puma: 
 
-Repositorio de Joaquin Paredes
+Repositorio de Joaquín Gonzalo Paredes Mescco: 
 
 Segundo ejercicio de crear una calculadora de forma grupal por medio del repositorio de github con los metodos basicos de suma, resta, multplicacion, division y modulo.
 
