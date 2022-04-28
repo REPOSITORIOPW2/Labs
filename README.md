@@ -18,74 +18,15 @@
 </table>
 </div>
 
-<div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-<span>(formato docente)</span>
-</div>
+# Programación Web 2
 
+Programación Web 2 (PW2) es un curso de la Escuela Profesional de Ingeniería de Sistemas ([EPIS]) de la Universidad Nacional de San Agustín de Arequipa ([UNSA]).
 
-<table>
-<theader>
-<tr><th colspan="6">INFORMACIÓN BÁSICA</th></tr>
-</theader>
-<tbody>
-<tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Calculadora y Hola mundo</td></tr>
-<tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
-</tr>
-<tr>
-<td>FECHA DE PRESENTACION:</td><td>28-Abr-2022</td><td colspan="3">HORA DE PRESENTACION:</td><td>3:50</td>
-</tr>
-<tr><td colspan="4">Integrantes:
-<ul>
-<li>Kevin Pedro Yare Chulunquia</li>
-<li>Joel Erick Gutierrez Puma</li>
-<li>Joaquín Gonzalo Paredes Mescco</li>
-</ul>
-</td>
-<td colspan="2">NOTA:</td>
-</tr>
-<tr><td colspan="6">DOCENTES:
-<ul>
-<li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
-</ul>
-</td>
-</<tr>
-</tdbody>
-</table>
+El presente repositorio fue creado por el profesor Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe) para su libre acceso y uso como material de consulta en el estudio del curso de Programación Web 2 del [Plan de estudios 2017][PLAN-2017] de la EPIS.
 
+2do año - Primer Semestre (III Semestre)
 
-# Solución y resultados
+| COMP  | CÓDIGO    | NOMBRE DE LA ASIGNATURA | DPTO | CRED | PRQ.1  | HRS. TEOR | HRS. LAB |
+|-------|-----------|-------------------------|------|------|--------|-----------|----------|
+| F     | 1702122   | Programación Web 2      | SI   | 4    | 1701212| 2.0       | 4.0      |
 
-## I.		SOLUCIÓN DE EJERCICIOS/PROBLEMAS
-
-Primer ejercicio de crear un repositorio individual donde se añadira un "HolaMundo.java" y como minimo 3 veces hacer commit.
-
-Repositorio de Kevin Pedro Yare Chulunquia: https://github.com/kevinPedroYare/primero
-
-Repositorio de Joel Erick Gutierrez Puma: 
-
-Repositorio de Joaquín Gonzalo Paredes Mescco: 
-
-Segundo ejercicio de crear una calculadora de forma grupal por medio del repositorio de github con los metodos basicos de suma, resta, multplicacion, division y modulo.
-
-
-Se añadio una plantilla base la cual se modificara cuando editaremos los metodos, se creo como un menu con las operaciones a pedir y por medio de un switch case pediremos la operacion a hacer, cada uno hizo una parte pero se hizo un nuevo repositorio donde aparece que lo subio uno solo la solucion.
-Repositorio: https://github.com/kevinPedroYare/calculadora
-
-
-## II.	SOLUCIÓN DE CUESTIONARIO
-
-Se creo un main donde se implemento todas las operaciones basicas
-
-## III.	CONCLUCIONES
-
-Por temas de organizacion se creo un nuevo repositorio donde se subio la solucion ya echa pero igual mandamos el link al repositorio original
-
-# RETROALIMENTACION GENERAL
-
-
-## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
-- https://guides.github.com/
-- https://git-scm.com/book/es/v2
