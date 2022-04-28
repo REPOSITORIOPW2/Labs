@@ -35,12 +35,15 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA PRESENTACIÓN:</td><td>28-Abr-2022</td><td>HORA PRESENTACIÓN:</td><td>7:00 pm</td>
 </tr>
-<tr><td colspan="6">RECURSOS A UTILIZAR:
+<tr>
+<td>INTEGRANTE(s):</td><td>28-Abr-2022</td><td>NOTA:</td><td>7:00 pm</td>
+</tr>
+<tr><td INTEGRANTE(s):
 <ul>
-<li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
-<li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
+<li>Joel Erick Gutierrez Puma</li>
+<li></li>
 </ul>
 </td>
 </<tr>
