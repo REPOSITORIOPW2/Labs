@@ -19,8 +19,8 @@
 </div>
 
 <div align="center">
-<span style="font-weight:bold;">GUÍA DE LABORATORIO</span><br />
-<span>(formato docente)</span>
+<span style="font-weight:bold;">INFORME DE LABORATORIO</span><br />
+<span>(formato estudiante)</span>
 </div>
 
 
