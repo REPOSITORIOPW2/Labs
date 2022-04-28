@@ -42,6 +42,7 @@
 <li>Kevin Pedro Yare Chulunquia</li>
 <li>Joel Erick Gutierrez Puma</li>
 <li>Joaquín Gonzalo Paredes Mescco</li>
+<li>Rutbel Carlos Ttito Campos</li>
 </ul>
 </td>
 <td>NOTA:</td><td colspan="2"></td>
