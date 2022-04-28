@@ -37,14 +37,14 @@
 <tr>
 <td>FECHA DE PRESENTACION:</td><td>28-Abr-2022</td><td>HORA DE PRESENTACION:</td><td colspan="3">3:50</td>
 </tr>
-<tr><td colspan="4">Integrantes:
+<tr><td colspan="3">Integrantes:
 <ul>
 <li>Kevin Pedro Yare Chulunquia</li>
 <li>Joel Erick Gutierrez Puma</li>
 <li>Joaquín Gonzalo Paredes Mescco</li>
 </ul>
 </td>
-<td>NOTA:</td><td>    </td>
+<td>NOTA:</td><td colspan="2"></td>
 </tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
