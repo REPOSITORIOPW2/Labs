@@ -44,7 +44,7 @@
 <li>Joaquín Gonzalo Paredes Mescco</li>
 </ul>
 </td>
-<td>NOTA:</td>
+<td colspan="1">NOTA:</td>
 </tr>
 <tr><td colspan="6">DOCENTES:
 <ul>
