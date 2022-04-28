@@ -41,7 +41,7 @@
 <ul>
 <li>Kevin Pedro Yare Chulunquia</li>
 <li>Joel Erick Gutierrez Puma</li>
-<li>Joaquin Paredes</li>
+<li>Joaquín Gonzalo Paredes Mescco</li>
 </ul>
 </td>
 <td>NOTA:</td>
@@ -64,9 +64,9 @@ Primer ejercicio de crear un repositorio individual donde se añadira un "HolaMu
 
 Repositorio de Kevin Pedro Yare Chulunquia: https://github.com/kevinPedroYare/primero
 
-Repositorio de Joel Erick Gutierrez Puma
+Repositorio de Joel Erick Gutierrez Puma: 
 
-Repositorio de Joaquin Paredes
+Repositorio de Joaquín Gonzalo Paredes Mescco: 
 
 Segundo ejercicio de crear una calculadora de forma grupal por medio del repositorio de github con los metodos basicos de suma, resta, multplicacion, division y modulo.
 
