@@ -65,12 +65,11 @@ Primer ejercicio de crear un repositorio individual donde se añadira un "HolaMu
 
 Repositorio de Kevin Pedro Yare Chulunquia: https://github.com/kevinPedroYare/primero
 
-   Screenshot de commits:
-   <img src="https://user-images.githubusercontent.com/64146055/165864496-95a41818-692c-4b28-b3ca-b7ff78ef13fe.png"/>
-
-
 Repositorio de Joel Erick Gutierrez Puma: https://github.com/joel123-gothub/pweb02
 
+Screenshot de commits:
+   <img src="https://user-images.githubusercontent.com/64146055/165864496-95a41818-692c-4b28-b3ca-b7ff78ef13fe.png"/>
+   
 Repositorio de Joaquín Gonzalo Paredes Mescco: 
 
 Segundo ejercicio de crear una calculadora de forma grupal por medio del repositorio de github con los metodos basicos de suma, resta, multplicacion, division y modulo.
