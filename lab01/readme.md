@@ -72,7 +72,7 @@ Segundo ejercicio de crear una calculadora de forma grupal por medio del reposit
 
 
 Se añadio una plantilla base la cual se modificara cuando editaremos los metodos, se creo como un menu con las operaciones a pedir y por medio de un switch case pediremos la operacion a hacer, cada uno hizo una parte pero se hizo un nuevo repositorio donde aparece que lo subio uno solo la solucion.
-Repositorio: https://github.com/kevinPedroYare/calculadora
+Repositorio: https://github.com/kevinPedroYare/calculadora/blob/main/main.java
 
 
 ## II.	SOLUCIÓN DE CUESTIONARIO
