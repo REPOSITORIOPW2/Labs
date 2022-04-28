@@ -64,7 +64,7 @@ Primer ejercicio de crear un repositorio individual donde se añadira un "HolaMu
 
 Repositorio de Kevin Pedro Yare Chulunquia: https://github.com/kevinPedroYare/primero
 
-Repositorio de Joel Erick Gutierrez Puma: 
+Repositorio de Joel Erick Gutierrez Puma: https://github.com/joel123-gothub/pweb02
 
 Repositorio de Joaquín Gonzalo Paredes Mescco: 
 
