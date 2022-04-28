@@ -73,7 +73,7 @@ Segundo ejercicio de crear una calculadora de forma grupal por medio del reposit
 
 
 Se añadio una plantilla base la cual se modificara cuando editaremos los metodos, se creo como un menu con las operaciones a pedir y por medio de un switch case pediremos la operacion a hacer, cada uno hizo una parte pero se hizo un nuevo repositorio donde aparece que lo subio uno solo la solucion.
-Repositorio: https://github.com/kevinPedroYare/calculadora/blob/main/main.java
+Repositorio: https://github.com/kevinPedroYare/calculadora/blob/main/main.java (En este repositorio apararece commits)
 
 
 ## II.	SOLUCIÓN DE CUESTIONARIO
@@ -84,7 +84,7 @@ Repositorio: https://github.com/kevinPedroYare/calculadora/blob/main/main.java
 
 ## III.	CONCLUCIONES
 
-Por temas de organizacion se creo un nuevo repositorio donde se subio la solucion ya echa pero igual mandamos el link al repositorio original
+Git y GitHub son dos herramientas complementarias que ofrecen grandes funcionalidades y ventajas a la hora de llevar a cabo proyectos de software. Permiten llevar controlar totalmente el estado de los diferentes archivos de código fuente a lo largo del tiempo, facilitando la revisión de código, la depuración de errores y la realización de todo tipo de pruebas.
 
 # RETROALIMENTACION GENERAL
 
