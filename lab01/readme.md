@@ -78,7 +78,9 @@ Repositorio: https://github.com/kevinPedroYare/calculadora/blob/main/main.java
 
 ## II.	SOLUCIÓN DE CUESTIONARIO
 
-Se creo un main donde se implemento todas las operaciones basicas
+- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?
+
+  Git nos permite la gestión distribuida del trabajo y laboratorios del curso de Programación Web 2. De esta manera, podemos trabajar a pesar de no estar físicamente cerca. Cada uno de nostros cuenta con su propia copia del repositorio en su rama. Y cada vez que se realice algún cambio, la modificación se aplica al proyecto en desarrollo.
 
 ## III.	CONCLUCIONES
 
