@@ -30,12 +30,12 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Calculadora</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Calculadora y Hola mundo</td></tr>
 <tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA DE PRESENTACION:</td><td>28-Abr-2022</td><td>HORA DE PRESENTACION:</td><td>3:50</td>
+<td>FECHA DE PRESENTACION:</td><td>28-Abr-2022</td><td colspan="5">HORA DE PRESENTACION:</td><td>3:50</td>
 </tr>
 <tr><td colspan="4">Integrantes:
 <ul>
