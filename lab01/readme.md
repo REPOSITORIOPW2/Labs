@@ -73,6 +73,11 @@ Repositorio de Joel Erick Gutierrez Puma: https://github.com/joel123-gothub/pweb
 Screenshot de commits:
    <img src="https://user-images.githubusercontent.com/64146055/165864496-95a41818-692c-4b28-b3ca-b7ff78ef13fe.png"/>
    
+Repositorio de Rutbel Carlos Ttito Campos: https://github.com/RutbelCarlosTC/Pweb2-lab1.git
+
+Screenshot de commits:
+   <img src="https://user-images.githubusercontent.com/90486158/165878412-ca547237-dd6b-4ba2-8b35-e07d5348a323.png"/>
+   
 Repositorio de Joaquín Gonzalo Paredes Mescco: 
 
 Segundo ejercicio de crear una calculadora de forma grupal por medio del repositorio de github con los metodos basicos de suma, resta, multplicacion, division y modulo.
