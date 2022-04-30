@@ -80,10 +80,10 @@ Screenshot de commits:
    
 Repositorio de Joaquín Gonzalo Paredes Mescco: https://github.com/joaquinGPM/pw2-lab01
     
-    Screenshot de commits:
+ Screenshot de commits:
     <img src="https://user-images.githubusercontent.com/91225726/166086561-c68c4a19-9f83-4a01-a0db-8a831b0b9c32.png"/>
-
-
+    
+  
 Segundo ejercicio de crear una calculadora de forma grupal por medio del repositorio de github con los metodos basicos de suma, resta, multplicacion, division y modulo.
 
 
