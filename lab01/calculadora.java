@@ -19,9 +19,7 @@ public class Calculadora {
 			System.out.println("\tSalir---> (6)\n");
 			
 			System.out.print("Escriba un numero de la lista: ");
-
 			rpta = sc.nextInt();
-			
 			if(rpta == 6) {
 				System.out.println("\nGracias por su tiempo!! ");
 				break;
