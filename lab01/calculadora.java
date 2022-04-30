@@ -31,7 +31,6 @@ public class Calculadora {
 			b = sc.nextInt();
 			
 			switch(rpta) {
-			
 				case(1):
 					System.out.println("La respuesta de la suma es: " + add(a,b));
 	            			break;
