@@ -66,7 +66,8 @@ Primer ejercicio de crear un repositorio individual donde se añadira un "HolaMu
 Repositorio de Kevin Pedro Yare Chulunquia: https://github.com/kevinPedroYare/primero
 
 Screenshot de comits:
-   <img src="https://github.com/kevinPedroYare/Hospital/blob/main/Sin%20t%C3%ADtulo.png"/>
+
+   ![Captura de pantalla 2022-05-12 160859](https://user-images.githubusercontent.com/83080715/168168612-6ada50dc-eda2-408b-badf-ec3c1c761f3f.png)
 
 Repositorio de Joel Erick Gutierrez Puma: https://github.com/joel123-gothub/pweb02
 
